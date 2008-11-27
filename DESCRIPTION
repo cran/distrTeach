@@ -1,6 +1,6 @@
 Package: distrTeach
-Version: 2.0.2
-Date: 2008-11-05
+Version: 2.0.3
+Date: 2008-11-27
 Title: Extensions of package distr for teaching Stochastics/Statistics
         in secondary school
 Description: Extensions of package distr and some additional
@@ -13,4 +13,4 @@ Maintainer: Peter Ruckdeschel <Peter.Ruckdeschel@itwm.fraunhofer.de>
 LazyLoad: yes
 License: LGPL-3
 URL: http://distr.r-forge.r-project.org/
-Packaged: Wed Nov  5 19:10:07 2008; btm722
+Packaged: Sat Nov 29 15:01:57 2008; btm722
