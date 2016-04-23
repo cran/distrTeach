@@ -33,7 +33,7 @@ illustrateCLT.tcl(Distr, k, Distrname)
 }
 
 \author{Matthias Kohl \email{Matthias.Kohl@stamats.de}\cr
-Peter Ruckdeschel \email{Peter.Ruckdeschel@itwm.fraunhofer.de}}
+Peter Ruckdeschel \email{peter.ruckdeschel@uni-oldenburg.de}}
 \examples{
 distroptions("DefaultNrFFTGridPointsExponent" = 13)
 illustrateCLT(Distr = Unif(), len = 20)
@@ -43,6 +43,14 @@ distroptions("DefaultNrFFTGridPointsExponent" = 13)
 illustrateCLT(Distr = Pois(lambda = 2)+Unif(), len = 20)
 illustrateCLT.tcl(Distr = Unif(), k = 4, "Unif()")
 }
+
+\references{
+Kohl, M., Ruckdeschel, P., (2014):
+   General purpose convolution algorithm for distributions 
+  in S4-Classes by means of FFT. \emph{J. Statist. Softw.}
+  \bold{59}(4): 1-25.
+}
+
 \keyword{distribution}
 \keyword{methods}
 \concept{illustration}
