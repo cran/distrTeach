@@ -20,15 +20,15 @@ as well as a Tcl/Tk based demo for\code{illustrateCLT}
 \details{
 \tabular{ll}{
 Package: \tab distrTeach \cr
-Version: \tab 2.6 \cr
-Date: \tab 2016-04-23 \cr
+Version: \tab 2.8.0 \cr
+Date: \tab 2019-03-11 \cr
 Depends: \tab R(>= 2.2.0), methods, distr(>= 2.2), distrEx(>= 2.2) \cr
 Suggests: \tab tcltk\cr
 Imports: \tab startupmsg, grDevices, graphics, stats\cr
 LazyLoad: \tab yes \cr
 License: \tab LGPL-3 \cr
 URL: \tab http://distr.r-forge.r-project.org/\cr
-SVNRevision: \tab 1091 \cr
+VCS/SVNRevision: \tab 1314 \cr
 }
 }
 \section{Classes}{
@@ -103,7 +103,7 @@ Anja Hueller \email{anja\_h86@web.de}\cr
 \references{
 P. Ruckdeschel, M. Kohl, T. Stabla, F. Camphausen (2006):
 S4 Classes for Distributions, \emph{R News}, \emph{6}(2), 2-6. 
-\url{http://CRAN.R-project.org/doc/Rnews/Rnews_2006-2.pdf}
+\url{https://CRAN.R-project.org/doc/Rnews/Rnews_2006-2.pdf}
 
 %a more detailed manual for \pkg{distr}, \pkg{distrSim}, \pkg{distrTEst}, and \pkg{distrTeach} may be downloaded from  
 %\url{http://www.uni-bayreuth.de/departments/math/org/mathe7/DISTR/distr.pdf}\cr
@@ -117,7 +117,7 @@ a homepage to this package is available under\cr
 
 M. Kohl (2005): \emph{Numerical Contributions to the Asymptotic 
 Theory of Robustness.} PhD Thesis. Bayreuth. Available as 
-\url{http://www.stamats.de/ThesisMKohl.pdf}
+\url{http://www.stamats.de/wp-content/uploads/2018/04/ThesisMKohl.pdf}
 }
 \keyword{package}
 \concept{LLN}
