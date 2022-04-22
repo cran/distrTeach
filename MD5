@@ -1,4 +1,4 @@
-f321b323b3606441d174951ef5c12ba2 *DESCRIPTION
+a7deb5d2b3f82df407f80be861829909 *DESCRIPTION
 150d5d416bf6ca04108631e2af9772c5 *NAMESPACE
 ed2fbac55f74a9ef6eaff03a6d14933a *R/AllClass.R
 903a81db48a2a5a6fe989b9251eae5cc *R/AllGeneric.R
@@ -9,9 +9,9 @@ a8577f40bdec8e3b728add9655b87d9a *demo/illustCLT.R
 221c417f3b10de0e48d7c9eff3e30396 *demo/illustCLT_tcl.R
 2cb659668172bf37d45f19ae3c18fd35 *demo/illustLLN.R
 8f9fbb05fb67c9bb71fea992ef77f547 *inst/CITATION
-0a676e01f455e820cd6873fcf4748445 *inst/NEWS
+f1b7c5733d1f108aa9094c48af3fd02e *inst/NEWS
 7aace2bf7b9eb7005d7a5d8f786ed2c9 *inst/TOBEDONE
-0f7b639493e79d0a0543d8cc65ec91fa *man/0distrTeach-package.Rd
+5bc9e011c4a4845c5a193540564d10cf *man/0distrTeach-package.Rd
 e9e3dd914233c805acd648efc4d72489 *man/IllustCLT.Rd
 477a7beac7dc603b5b41c6a688692ff5 *man/IllustLLN.Rd
 e6385ba297e077d7f32abcf5759480cf *man/plotCLT.Rd
