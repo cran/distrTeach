@@ -1,6 +1,6 @@
 Package: distrTeach
-Version: 2.9.0
-Date: 2022-11-12
+Version: 2.9.1
+Date: 2024-01-30
 Title: Extensions of Package 'distr' for Teaching
         Stochastics/Statistics in Secondary School
 Description: Provides flexible examples of LLN and CLT for teaching purposes in secondary
@@ -15,13 +15,13 @@ Authors@R: c(person("Eleonora", "Feist", role="ctb", comment = "contributed as s
             comment = "contributed as student in the initial phase --2008"))
 ByteCompile: yes
 License: LGPL-3
-Encoding: latin1
+Encoding: UTF-8
 URL: http://distr.r-forge.r-project.org/
-Packaged: 2022-11-12 21:10:24 UTC; ruckdesc
-LastChangedDate: {$LastChangedDate: 2022-04-22 12:49:11 +0200 (Fr, 22
-        Apr 2022) $}
-LastChangedRevision: {$LastChangedRevision: 1364 $}
-VCS/SVNRevision: 1380
+Packaged: 2024-01-30 19:13:36 UTC; ruckdesc
+LastChangedDate: {$LastChangedDate: 2024-01-30 20:10:15 +0100 (Di, 30
+        Jan 2024) $}
+LastChangedRevision: {$LastChangedRevision: 1430 $}
+VCS/SVNRevision: 1429
 NeedsCompilation: no
 Author: Eleonora Feist [ctb] (contributed as student in the initial phase
     --2008),
@@ -30,4 +30,4 @@ Author: Eleonora Feist [ctb] (contributed as student in the initial phase
   Anja Hueller [ctb] (contributed as student in the initial phase --2008)
 Maintainer: Peter Ruckdeschel <peter.ruckdeschel@uni-oldenburg.de>
 Repository: CRAN
-Date/Publication: 2022-11-12 22:40:09 UTC
+Date/Publication: 2024-01-31 10:20:02 UTC
